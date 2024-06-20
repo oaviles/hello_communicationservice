@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k4BFkSniZ1dNSVeonsGC5DsXDoELHAGCf7zIThseKLQ=",
+  "Source": "oaemailapi",
+  "BasePath": "_content/oaemailapi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

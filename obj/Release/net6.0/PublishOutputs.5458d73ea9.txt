@@ -1,0 +1,16 @@
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\oaemailapi.exe
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\appsettings.json
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\oaemailapi.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\oaemailapi.deps.json
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\oaemailapi.runtimeconfig.json
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\oaemailapi.pdb
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\Azure.Communication.Email.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\Azure.Core.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\System.Diagnostics.DiagnosticSource.dll
+C:\Users\edaviles\code\oaemailapi\bin\Release\net6.0\publish\System.Memory.Data.dll
