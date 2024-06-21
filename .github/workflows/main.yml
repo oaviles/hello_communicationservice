@@ -4,7 +4,7 @@ name: Build and Push image to ACR
 on: workflow_dispatch
 
 env:
-  ACR_REGISTRY: ${{ secrets.CONTAINER_REGISTRY }}
+  ACR_REGISTRY: ${{ secrets.ACR_REGISTRY }}
   image_name: oaemailapi
   #tag: ${{ github.sha }}
   tag: 5076
